@@ -1,0 +1,10 @@
+C:\Users\Даниил_ноут\source\repos\EntityViewerDaS3\EntityViewerDaS3\obj\Debug\EntityViewerDaS3.csprojAssemblyReference.cache
+C:\Users\Даниил_ноут\source\repos\EntityViewerDaS3\EntityViewerDaS3\obj\Debug\EntityViewerDaS3.EnMainLoad.resources
+C:\Users\Даниил_ноут\source\repos\EntityViewerDaS3\EntityViewerDaS3\obj\Debug\EntityViewerDaS3.Properties.Resources.resources
+C:\Users\Даниил_ноут\source\repos\EntityViewerDaS3\EntityViewerDaS3\obj\Debug\EntityViewerDaS3.csproj.GenerateResource.cache
+C:\Users\Даниил_ноут\source\repos\EntityViewerDaS3\EntityViewerDaS3\obj\Debug\EntityViewerDaS3.csproj.CoreCompileInputs.cache
+C:\Users\Даниил_ноут\source\repos\EntityViewerDaS3\EntityViewerDaS3\bin\Debug\EntityViewerDaS3.exe.config
+C:\Users\Даниил_ноут\source\repos\EntityViewerDaS3\EntityViewerDaS3\bin\Debug\EntityViewerDaS3.exe
+C:\Users\Даниил_ноут\source\repos\EntityViewerDaS3\EntityViewerDaS3\bin\Debug\EntityViewerDaS3.pdb
+C:\Users\Даниил_ноут\source\repos\EntityViewerDaS3\EntityViewerDaS3\obj\Debug\EntityViewerDaS3.exe
+C:\Users\Даниил_ноут\source\repos\EntityViewerDaS3\EntityViewerDaS3\obj\Debug\EntityViewerDaS3.pdb
